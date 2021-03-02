@@ -1,0 +1,26 @@
+{
+  "name": "api-graphql",
+  "version": "1.0.0",
+  "description": "testes para disciplina de api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcsdevs/api-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcsdevs/api-graphql/issues"
+  },
+  "homepage": "https://github.com/lcsdevs/api-graphql#readme"
+}
